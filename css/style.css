@@ -76,6 +76,12 @@ p {
 	line-height: 17px;
 	color: var(--drak-grey-color);
 }
+.prenom {
+	font-weight: 600;
+    font-size: 25px;
+	margin-bottom: 0px;
+}
+
 
 /***************/
 .directionRow {
